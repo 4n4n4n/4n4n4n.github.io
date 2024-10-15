@@ -1,13 +1,11 @@
-### Education
+<h3 style="color:blue"> Education </h3>
 
-- **Hong Kong University of Science and Technology** (2022-2026)
+- **Hong Kong University of Science and Technology (HKUST)** (2022-2026)
     - Bachelor of Science in Data Science and Technology
     - Bachelor of Science in Mathematics
     
-### Projects
 
-### Achievements
-
+<h3 style="color:blue"> Achievements </h3>
 | Achievement | Time |
 |-------------|------|
 | [S.S. Chern Class](https://www.math.hkust.edu.hk/ug/chern_class/) of elite and talented students in Mathematics| starting from 2023 Fall |
@@ -16,7 +14,7 @@
 | Dean's List (TGA > 3.7)| 2023 Fall |
 | Dean's List (TGA > 3.7)| 2024 Spring |
 
-### Research Experience
+<h3 style="color:blue"> Research Experience </h3>
 
 - **Undergraduate Research Opportunity** at [Department of Computer Science, HKUST]
     - Supervison: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
@@ -28,13 +26,11 @@
     - Time: 2024 July-Aug
     - Research Topic: Regret Bound for Offline Reinforcement Learning Incorporated with Unlabeled Reward and Kernel Approximation
 
+<h3 style="color:blue"> Projects </h3>
 
 
-
-### Courses
-
+<h3 style="color:blue"> Courses </h3>
 I love MATH and CS, so I've taken the honors version of courses to get solid and deep understanding. Here are some of the courses I've taken:
-
 | Course                                 | Grade |
 |----------------------------------------|-------|
 | MATH 1023 Honors Calculus I            | A     |
@@ -51,7 +47,3 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
               
-
-
-
-
