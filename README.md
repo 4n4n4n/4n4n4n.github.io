@@ -11,7 +11,7 @@
 </div>
 
 <!-- Main Content -->
-<div style="margin-left: 220px; padding: 20px;">
+
 
 <h3 id="education" style="color:blue;">Education</h3>
 
@@ -67,4 +67,4 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
 
-</div>
+
