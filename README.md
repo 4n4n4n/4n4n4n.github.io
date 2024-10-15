@@ -23,6 +23,7 @@
 ### Courses
 
 I love MATH and CS, so I've taken the honors version of courses to get solid and deep understanding. Here are some of the courses I've taken:
+
 | Course                                 | Grade |
 |----------------------------------------|-------|
 | MATH 1023 Honors Calculus I            | A     |
