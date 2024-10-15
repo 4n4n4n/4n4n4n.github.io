@@ -1,6 +1,6 @@
 <!-- Sidebar -->
 <div id="sidebar" style="position: fixed; top: 20px; left: 20px; width: 200px; background: #f4f4f4; padding: 10px; border-radius: 5px;">
-  <h3 style="color:blue;">Navigation</h3>
+  <h3 style="color:blue;">About me</h3>
   <ul>
     <li><a href="#education" style="color:blue;">Education</a></li>
     <li><a href="#achievements" style="color:blue;">Achievements</a></li>
@@ -67,4 +67,5 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
 
-
+### LeetCode-Progress
+![Leetcode Stats](https://leetcard.jacoblin.cool/brian1050216?ext=heatmap)
