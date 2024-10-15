@@ -1,24 +1,38 @@
-<h3 style="color:blue"> Education </h3>
+<!-- Sidebar -->
+<div id="sidebar" style="position: fixed; top: 20px; left: 20px; width: 200px; background: #f4f4f4; padding: 10px; border-radius: 5px;">
+  <h3 style="color:blue;">Navigation</h3>
+  <ul>
+    <li><a href="#education" style="color:blue;">Education</a></li>
+    <li><a href="#achievements" style="color:blue;">Achievements</a></li>
+    <li><a href="#research-experience" style="color:blue;">Research Experience</a></li>
+    <li><a href="#skills" style="color:blue;">Skills</a></li>
+    <li><a href="#courses" style="color:blue;">Courses</a></li>
+  </ul>
+</div>
 
-- **[Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)** (2022-2026)
+<!-- Main Content -->
+<div style="margin-left: 220px; padding: 20px;">
+
+<h3 id="education" style="color:blue;">Education</h3>
+
+- **Hong Kong University of Science and Technology (HKUST)** (2022-2026)
     - Bachelor of Science in Data Science and Technology
     - Bachelor of Science in Mathematics
-    
 
-<h3 style="color:blue"> Achievements </h3>
+<h3 id="achievements" style="color:blue;">Achievements</h3>
 
 | Achievement | Time |
 |-------------|------|
-| [S.S. Chern Class](https://www.math.hkust.edu.hk/ug/chern_class/) of elite and talented students in Mathematics| starting from 2023 Fall |
-| Dean's List (TGA > 3.7)| 2022Fall |
-| Dean's List (TGA > 3.7)| 2023 Spring |
-| Dean's List (TGA > 3.7)| 2023 Fall |
-| Dean's List (TGA > 3.7)| 2024 Spring |
+| [S.S. Chern Class](https://www.math.hkust.edu.hk/ug/chern_class/) of elite and talented students in Mathematics | starting from 2023 Fall |
+| Dean's List (TGA > 3.7) | 2022 Fall |
+| Dean's List (TGA > 3.7) | 2023 Spring |
+| Dean's List (TGA > 3.7) | 2023 Fall |
+| Dean's List (TGA > 3.7) | 2024 Spring |
 
-<h3 style="color:blue"> Research Experience </h3>
+<h3 id="research-experience" style="color:blue;">Research Experience</h3>
 
 - **Undergraduate Research Opportunity** at [Department of Computer Science, HKUST](https://cse.hkust.edu.hk/)
-    - Supervison: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
+    - Supervision: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
     - Time: 2024 Fall - Current
     - Research Topic: Efficient Queries over Database
 
@@ -27,10 +41,13 @@
     - Time: 2024 July-Aug
     - Research Topic: Regret Bound for Offline Reinforcement Learning Incorporated with Unlabeled Reward and Kernel Approximation
 
-<h3 style="color:blue"> Projects </h3>
+<h3 id="skills" style="color:blue;">Skills</h3>
 
+- Programming Proficient: C++, Python, Matlab
+- Machine Learning Libraries: Keras, TensorFlow, scikit-learn, pandas, numpy
+- Languages: Mandarin, English
 
-<h3 style="color:blue"> Courses </h3>
+<h3 id="courses" style="color:blue;">Courses</h3>
 
 I love MATH and CS, so I've taken the honors version of courses to get solid and deep understanding. Here are some of the courses I've taken:
 
@@ -50,6 +67,4 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
 
-### LeetCode Progress
-![Leetcode Stats](https://leetcard.jacoblin.cool/brian1050216?ext=heatmap)
-              
+</div>
