@@ -18,6 +18,17 @@
 
 ### Research Experience
 
+- **Undergraduate Research Opportunity** at [Department of Computer Science, HKUST]
+    - Supervison: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
+    - Time: 2024 Fall - Current
+    - Research Topic: Efficient Queries over Database
+
+- **Undergraduate Summer Research Program** at [National Center for Theoretical Sciences] (https://ncts.ntu.edu.tw/)
+    - Supervision: Prof. [Pei-Yuan Wu](https://www.ee.ntu.edu.tw/profile1.php?id=1060803)
+    - Time: 2024 July-Aug
+    - Research Topic: Regret Bound for Offline Reinforcement Learning Incorporated with Unlabeled Reward and Kernel Approximation
+
+
 
 
 ### Courses
