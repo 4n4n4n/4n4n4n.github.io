@@ -7,6 +7,7 @@
 ### Projects
 
 ### Achievements
+
 | Achievement | Time |
 |-------------|------|
 | [S.S. Chern Class](https://www.math.hkust.edu.hk/ug/chern_class/) of elite and talented students in Mathematics| starting from 2023 Fall |
@@ -15,7 +16,12 @@
 | Dean's List (TGA > 3.7)| 2023 Fall |
 | Dean's List (TGA > 3.7)| 2024 Spring |
 
+### Research Experience
+
+
+
 ### Courses
+
 I love MATH and CS, so I've taken the honors version of courses to get solid and deep understanding. Here are some of the courses I've taken:
 | Course                                 | Grade |
 |----------------------------------------|-------|
@@ -34,8 +40,6 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
               
 
-### Courses 
 
-MATH 1023/1024 Honor Calculus I/II 
 
 
