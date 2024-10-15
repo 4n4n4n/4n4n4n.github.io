@@ -6,6 +6,7 @@
     
 
 <h3 style="color:blue"> Achievements </h3>
+
 | Achievement | Time |
 |-------------|------|
 | [S.S. Chern Class](https://www.math.hkust.edu.hk/ug/chern_class/) of elite and talented students in Mathematics| starting from 2023 Fall |
@@ -30,7 +31,9 @@
 
 
 <h3 style="color:blue"> Courses </h3>
+
 I love MATH and CS, so I've taken the honors version of courses to get solid and deep understanding. Here are some of the courses I've taken:
+
 | Course                                 | Grade |
 |----------------------------------------|-------|
 | MATH 1023 Honors Calculus I            | A     |
@@ -46,4 +49,7 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 2211 Exploring Artificial Intelligence | A     |
 | COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
+
+### LeetCode Progress
+![Leetcode Stats](https://leetcard.jacoblin.cool/brian1050216?ext=heatmap)
               
