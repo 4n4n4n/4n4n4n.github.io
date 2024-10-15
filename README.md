@@ -1,6 +1,6 @@
 <!-- Sidebar -->
-<div id="sidebar" style="position: fixed; top: 20px; left: 20px; width: 200px; background: #f4f4f4; padding: 10px; border-radius: 5px;">
-  <h3 style="color:blue;">About me</h3>
+<!-- <div id="sidebar" style="position: fixed; top: 20px; left: 20px; width: 200px; background: #f4f4f4; padding: 10px; border-radius: 5px;">
+  <h3 style="color:blue;">Navigation</h3>
   <ul>
     <li><a href="#education" style="color:blue;">Education</a></li>
     <li><a href="#achievements" style="color:blue;">Achievements</a></li>
@@ -8,7 +8,7 @@
     <li><a href="#skills" style="color:blue;">Skills</a></li>
     <li><a href="#courses" style="color:blue;">Courses</a></li>
   </ul>
-</div>
+</div> -->
 
 <!-- Main Content -->
 
