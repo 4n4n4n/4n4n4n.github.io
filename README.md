@@ -1,6 +1,6 @@
 <h3 style="color:blue"> Education </h3>
 
-- **Hong Kong University of Science and Technology (HKUST)** (2022-2026)
+- **[Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)** (2022-2026)
     - Bachelor of Science in Data Science and Technology
     - Bachelor of Science in Mathematics
     
@@ -16,12 +16,12 @@
 
 <h3 style="color:blue"> Research Experience </h3>
 
-- **Undergraduate Research Opportunity** at [Department of Computer Science, HKUST]
+- **Undergraduate Research Opportunity** at [Department of Computer Science, HKUST](https://cse.hkust.edu.hk/)
     - Supervison: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
     - Time: 2024 Fall - Current
     - Research Topic: Efficient Queries over Database
 
-- **Undergraduate Summer Research Program** at [National Center for Theoretical Sciences] (https://ncts.ntu.edu.tw/)
+- **Undergraduate Summer Research Program** at [National Center for Theoretical Sciences](https://ncts.ntu.edu.tw/)
     - Supervision: Prof. [Pei-Yuan Wu](https://www.ee.ntu.edu.tw/profile1.php?id=1060803)
     - Time: 2024 July-Aug
     - Research Topic: Regret Bound for Offline Reinforcement Learning Incorporated with Unlabeled Reward and Kernel Approximation
