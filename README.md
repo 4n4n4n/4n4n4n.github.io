@@ -12,6 +12,9 @@
 
 <!-- Main Content -->
 
+<h3 id="intro" style="color:blue;">Introduction</h3>
+
+Hello! I’m a third-year Data Science student, also majoring in Mathematics. I'm passionate about probability and statistics, and I thrive on solving complex problems. My curiosity drives me to understand the reasoning behind statistical tools and the intricacies of machine learning algorithms. I enjoy delving into these details to uncover insights and contribute to impactful decisions. My academic journey has sharpened my analytical skills, and I'm eager to apply this knowledge in real-world scenarios.
 
 <h3 id="education" style="color:blue;">Education</h3>
 
@@ -66,6 +69,15 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 2211 Exploring Artificial Intelligence | A     |
 | COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
+| MATH 2511 Fundementals of Actuarial Mathematics | taking |
+| MATH 3332 Data Analytic Tools | taking |
+| MATH 3423 Statistical Inference | taking |
+| MATH 4432 Statistical Machine Learning | taking |
+| MATH 5411 Advanced Probability Theory I | taking |
+| COMP 4211 Machine Learning | taking |
 
 ### LeetCode-Progress
+
+In my free time, I like to do some coding to sharpen my mind and also prepare for an interview XD
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/brian1050216?ext=heatmap)
