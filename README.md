@@ -14,7 +14,7 @@
 
 <h3 id="intro" style="color:blue;">Introduction</h3>
 
-Hello! I’m a third-year Data Science student, also majoring in Mathematics. I'm passionate about probability and statistics, and I thrive on solving complex problems. My curiosity drives me to understand the reasoning behind statistical tools and the intricacies of machine learning algorithms. I enjoy delving into these details to uncover insights and contribute to impactful decisions. My academic journey has sharpened my analytical skills, and I'm eager to apply this knowledge in real-world scenarios.
+Hello! I’m a third-year Data Science student, also majoring in Mathematics. I'm passionate about **probability and statistics**, and I thrive on solving complex problems. My curiosity drives me to understand the reasoning behind statistical tools and the intricacies of **machine learning algorithms**. I enjoy delving into these details to uncover insights and contribute to impactful decisions. My academic journey has sharpened my analytical skills, and I'm eager to apply this knowledge in real-world scenarios.
 
 <h3 id="education" style="color:blue;">Education</h3>
 
