@@ -27,10 +27,8 @@ Hello! I’m a third-year Data Science student, also majoring in Mathematics. I'
 | Achievement | Time |
 |-------------|------|
 | [S.S. Chern Class](https://www.math.hkust.edu.hk/ug/chern_class/) of elite and talented students in Mathematics | starting from 2023 Fall |
-| Dean's List (TGA > 3.7) | 2022 Fall |
-| Dean's List (TGA > 3.7) | 2023 Spring |
-| Dean's List (TGA > 3.7) | 2023 Fall |
-| Dean's List (TGA > 3.7) | 2024 Spring |
+| Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring, 2023 Fall, 2024 Spring|
+
 
 <h3 id="research-experience" style="color:blue;">Research Experience</h3>
 
