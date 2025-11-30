@@ -32,15 +32,16 @@ Hello! I’m a third-year Data Science student, also majoring in Mathematics. I'
 
 <h3 id="research-experience" style="color:blue;">Research Experience</h3>
 - **Final Year Thesis** at [Department of Computer Science, HKUST] (https://cse.hkust.edu.hk/)
-  - Supervision: Prof. [Ke, Yi] (https://www.cse.ust.hk/~yike/)
+  - Supervision: Prof. [Ke, Yi](https://www.cse.ust.hk/~yike/)
   - Time: 2025 Fall - Current
   - Research Topic: Differentially Private Range Counting in
 General Metric Spaces
-  - [📄 View FYT Proposal](./pdfs/fyt-proposal.pdf) 
+  - [📄 View FYT Proposal](./pdfs/fyt_proposal.pdf) 
 - **Undergraduate Research Opportunity** at [Department of Computer Science, HKUST](https://cse.hkust.edu.hk/)
     - Supervision: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
     - Time: 2024 Fall - Current
     - Research Topic: Efficient Queries over Database
+    - [📄 View Research Report](./pdfs/urop_2024_report.pdfpdf)
 
 - **Undergraduate Summer Research Program** at [National Center for Theoretical Sciences](https://ncts.ntu.edu.tw/)
     - Supervision: Prof. [Pei-Yuan Wu](https://www.ee.ntu.edu.tw/profile1.php?id=1060803)
