@@ -41,7 +41,7 @@ General Metric Spaces
     - Supervision: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
     - Time: 2024 Fall - Current
     - Research Topic: Efficient Queries over Database
-    - [📄 View Research Report](./pdfs/urop_2024_report.pdfpdf)
+    - [📄 View Research Report](./pdfs/urop_2024_report.pdf)
 
 - **Undergraduate Summer Research Program** at [National Center for Theoretical Sciences](https://ncts.ntu.edu.tw/)
     - Supervision: Prof. [Pei-Yuan Wu](https://www.ee.ntu.edu.tw/profile1.php?id=1060803)
