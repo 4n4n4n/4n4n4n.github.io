@@ -28,9 +28,9 @@ Hello! I'm a final-year Data Science student, also majoring in Mathematics. I'm 
 
 | Achievement | Time |
 |-------------|------|
-| Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring, 2023 Fall, 2024 Spring |
+| Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring,<br>2023 Fall, 2024 Spring |
 | [S.S. Chern Class Scholarship](https://www.math.hkust.edu.hk/ug/chern_class/) for Elite Students in Mathematics - Awarded to top 10% students for outstanding performance and dedication in mathematical studies | since 2023 |
-| [Epsilon Fund Award for Excellence in Mathematics Research and Scholarship(https://www.math.hkust.edu.hk/intranet/ug/epsilon.php)] - Mathematics scholarship awarded to top 3% of math majors for outstanding academic excellence | 2025 |
+| [Epsilon Fund Award for Excellence in Mathematics Research and Scholarship](https://www.math.hkust.edu.hk/intranet/ug/epsilon.php) - Mathematics scholarship awarded to top 3% of math majors for outstanding academic excellence | 2025 |
 | Simon Marais Mathematics Competition - Achieved top 10% ranking among 1,056 participants | 2024 |
 
 
