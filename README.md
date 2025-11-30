@@ -28,10 +28,11 @@ Hello! I'm a final-year Data Science student, also majoring in Mathematics. I'm 
 
 | Achievement | Time |
 |-------------|------|
-| Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring,<br>2023 Fall, 2024 Spring |
-| [S.S. Chern Class Scholarship](https://www.math.hkust.edu.hk/ug/chern_class/) for Elite Students in Mathematics - Awarded to top 10% students for outstanding performance and dedication in mathematical studies | since 2023 |
 | [Epsilon Fund Award for Excellence in Mathematics Research and Scholarship](https://www.math.hkust.edu.hk/intranet/ug/epsilon.php) - Mathematics scholarship awarded to top 3% of math majors for outstanding academic excellence | 2025 |
-| Simon Marais Mathematics Competition - Achieved top 10% ranking among 1,056 participants | 2024 |
+| Simon Marais Mathematics Competition - Achieved top 10% ranking among 1,056 participants | 2024 Spring|
+| [S.S. Chern Class Scholarship](https://www.math.hkust.edu.hk/ug/chern_class/) for Elite Students in Mathematics - Awarded to top 10% students for outstanding performance and dedication in mathematical studies | since 2023 |
+| Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring,<br>2023 Fall, 2024 Spring |
+
 
 
 <h3 id="research-experience" style="color:blue;">Research Experience</h3>
@@ -55,6 +56,10 @@ General Metric Spaces
 
 <h3 id="other-experiences" style="color:blue;">Other Experiences</h3>
 
+- **Student Representative** at the Liaison Meeting, Department of Mathematics, HKUST
+    - Time: Nov 12, 2025
+    - Effectively communicated student concerns and suggestions to faculty, fostering an improved learning environment
+
 - **Teaching Assistant** for COMP2011 Programming with C++, HKUST
     - Time: Jul 2025 – Aug 2025
     - Advisor: Tsz-Him Cheung
@@ -65,10 +70,6 @@ General Metric Spaces
     - Time: Sep 2024 – Present
     - Answering math questions and teaching students at the MATH Support Centre
     - Leveraging my strengths to assist students in need, enhancing my communication skills by clearly explaining complex concepts
-
-- **Student Representative** at the Liaison Meeting, Department of Mathematics, HKUST
-    - Time: Nov 12, 2025
-    - Effectively communicated student concerns and suggestions to faculty, fostering an improved learning environment
 
 - **Event Volunteer** for Culture Festival, School of Science, HKUST
     - Time: Mar 13, 2024
