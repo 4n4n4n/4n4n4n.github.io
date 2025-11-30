@@ -31,7 +31,12 @@ Hello! I’m a third-year Data Science student, also majoring in Mathematics. I'
 
 
 <h3 id="research-experience" style="color:blue;">Research Experience</h3>
-
+- **Final Year Thesis** at [Department of Computer Science, HKUST] (https://cse.hkust.edu.hk/)
+  - Supervision: Prof. [Ke, Yi] (https://www.cse.ust.hk/~yike/)
+  - Time: 2025 Fall - Current
+  - Research Topic: Differentially Private Range Counting in
+General Metric Spaces
+  - [📄 View FYT Proposal](./pdfs/fyt-proposal.pdf) 
 - **Undergraduate Research Opportunity** at [Department of Computer Science, HKUST](https://cse.hkust.edu.hk/)
     - Supervision: Prof. [Raymond Wong](https://www.cse.ust.hk/~raywong/)
     - Time: 2024 Fall - Current
@@ -41,6 +46,7 @@ Hello! I’m a third-year Data Science student, also majoring in Mathematics. I'
     - Supervision: Prof. [Pei-Yuan Wu](https://www.ee.ntu.edu.tw/profile1.php?id=1060803)
     - Time: 2024 July-Aug
     - Research Topic: Regret Bound for Offline Reinforcement Learning Incorporated with Unlabeled Reward and Kernel Approximation
+    - [📄 View Research Report](./pdfs/usrp_report.pdf)
 
 <h3 id="skills" style="color:blue;">Skills</h3>
 
@@ -67,12 +73,10 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 | COMP 2211 Exploring Artificial Intelligence | A     |
 | COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
 | COMP 3711H Honor Design and Analysis of Algorithms | A+ |
-| MATH 2511 Fundementals of Actuarial Mathematics | taking |
-| MATH 3332 Data Analytic Tools | taking |
-| MATH 3423 Statistical Inference | taking |
-| MATH 4432 Statistical Machine Learning | taking |
-| MATH 5411 Advanced Probability Theory I | taking |
-| COMP 4211 Machine Learning | taking |
+| MATH 3332 Data Analytic Tools | A+ |
+| MATH 3423 Statistical Inference | A+ |
+| MATH 5411 Advanced Probability Theory I | A+ |
+| COMP 4211 Machine Learning | A+ |
 
 ### LeetCode-Progress
 
