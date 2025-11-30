@@ -67,11 +67,6 @@ General Metric Spaces
     - Time: Mar 13, 2024
     - Helped with the Germany Counter for the Science School Culture Festival
 
-<h3 id="skills" style="color:blue;">Skills</h3>
-
-- Programming Proficient: C++, Python, Matlab
-- Machine Learning Libraries: Keras, TensorFlow, scikit-learn, pandas, numpy
-- Languages: Mandarin, English
 
 
 <h3 id="achievements" style="color:blue;">Achievements</h3>
@@ -82,6 +77,15 @@ General Metric Spaces
 | Simon Marais Mathematics Competition - Achieved top 10% ranking among 1,056 participants | 2024 Spring|
 | [S.S. Chern Class Scholarship](https://www.math.hkust.edu.hk/ug/chern_class/) for Elite Students in Mathematics - Awarded to top 10% students for outstanding performance and dedication in mathematical studies | since 2023 |
 | Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring,<br>2023 Fall, 2024 Spring |
+
+<h3 id="skills" style="color:blue;">Skills</h3>
+
+- Programming Proficient: C++, Python, Matlab
+- Machine Learning Libraries: Keras, TensorFlow, scikit-learn, pandas, numpy
+- Languages: Mandarin, English
+
+
+
 
 <h3 id="courses" style="color:blue;">Courses</h3>
 
