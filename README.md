@@ -28,7 +28,7 @@ Hello! I'm a final-year Data Science student, also majoring in Mathematics. I'm 
 
 
 <h3 id="research-experience" style="color:blue;">Research Experience</h3>
-- **Final Year Thesis** at [Department of Computer Science, HKUST] (https://cse.hkust.edu.hk/)
+- **Final Year Thesis** at [Department of Computer Science, HKUST](https://cse.hkust.edu.hk/)
   - Supervision: Prof. [Ke, Yi](https://www.cse.ust.hk/~yike/)
   - Time: 2025 Fall - Current
   - Research Topic: Differentially Private Range Counting in
