@@ -93,23 +93,27 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 
 | Course                                 | Grade |
 |----------------------------------------|-------|
-| MATH 1023 Honors Calculus I            | A     |
-| MATH 1024 Honors Calculus II           | A     |
-| MATH 2131 Honors in Linear and Abstract Algebra I   | A+    |
-| MATH 2023 Multivariable Calculus       | A     |
-| MATH 2043 Honors Mathematical Analysis | A     |
-| MATH 2431 Honors Probability           | A     |
-| MATH 3322 Matrix Computation           | A+    |
-| MATH 4023 Complex Analysis             | A     |
-| COMP 2011 Programming with C++         | A+    |
-| COMP 2012 Object-Oriented Programming and Data Structures | A |
-| COMP 2211 Exploring Artificial Intelligence | A     |
-| COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
-| COMP 3711H Honor Design and Analysis of Algorithms | A+ |
-| MATH 3332 Data Analytic Tools | A+ |
-| MATH 3423 Statistical Inference | A+ |
-| MATH 5411 Advanced Probability Theory I | A+ |
+| COMP 5711 Introduction to Advanced Algorithms | A+|
+| COMP 4222 Machine Learning with Structured Data| A+|
 | COMP 4211 Machine Learning | A+ |
+| COMP 3721 Theory of Computation | A |
+| COMP 3711H Honor Design and Analysis of Algorithms | A+ |
+| COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
+| COMP 2211 Exploring Artificial Intelligence | A     |
+| COMP 2012 Object-Oriented Programming and Data Structures | A |
+| COMP 2011 Programming with C++         | A+    |
+| MATH 5411 Advanced Probability Theory I | A+ |
+| MATH 4023 Complex Analysis             | A     |
+| MATH 3423 Statistical Inference | A+ |
+| MATH 3332 Data Analytic Tools | A+ |
+| MATH 3322 Matrix Computation           | A+    |
+| MATH 3033 Real Analysis | A+ |
+| MATH 2431 Honors Probability           | A     |
+| MATH 2043 Honors Mathematical Analysis | A     |
+| MATH 2023 Multivariable Calculus       | A     |
+| MATH 2131 Honors in Linear and Abstract Algebra I   | A+ |
+| MATH 1024 Honors Calculus II           | A     |
+| MATH 1023 Honors Calculus I            | A     |
 
 <!-- ### LeetCode-Progress
 
