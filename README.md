@@ -115,27 +115,27 @@ I love MATH and CS, so I've taken the honors version of courses to get solid and
 • MATH 2131 Honors in Linear and Abstract Algebra I
 • MATH 1024 Honors Calculus II
 • MATH 1023 Honors Calculus I -->
-• COMP 5711 Introduction to Advanced Algorithms
-• COMP 4222 Machine Learning with Structured Data
-• COMP 4211 Machine Learning
-• COMP 3721 Theory of Computation
-• COMP 3711H Honor Design and Analysis of Algorithms
-• COMP 2711H Honors Discrete Mathematical Tools for Computer Science
-• COMP 2211 Exploring Artificial Intelligence
-• COMP 2012 Object-Oriented Programming and Data Structures
-• COMP 2011 Programming with C++
-• MATH 5411 Advanced Probability Theory I
-• MATH 4023 Complex Analysis
-• MATH 3423 Statistical Inference
-• MATH 3332 Data Analytic Tools
-• MATH 3322 Matrix Computation
-• MATH 3033 Real Analysis
-• MATH 2431 Honors Probability
-• MATH 2043 Honors Mathematical Analysis
-• MATH 2023 Multivariable Calculus
-• MATH 2131 Honors in Linear and Abstract Algebra I
-• MATH 1024 Honors Calculus II
-• MATH 1023 Honors Calculus I
+- COMP 5711 Introduction to Advanced Algorithms
+- COMP 4222 Machine Learning with Structured Data
+- COMP 4211 Machine Learning
+- COMP 3721 Theory of Computation
+- COMP 3711H Honor Design and Analysis of Algorithms
+- COMP 2711H Honors Discrete Mathematical Tools for Computer Science
+- COMP 2211 Exploring Artificial Intelligence
+- COMP 2012 Object-Oriented Programming and Data Structures
+- COMP 2011 Programming with C++
+- MATH 5411 Advanced Probability Theory I
+- MATH 4023 Complex Analysis
+- MATH 3423 Statistical Inference
+- MATH 3332 Data Analytic Tools
+- MATH 3322 Matrix Computation
+- MATH 3033 Real Analysis
+- MATH 2431 Honors Probability
+- MATH 2043 Honors Mathematical Analysis
+- MATH 2023 Multivariable Calculus
+- MATH 2131 Honors in Linear and Abstract Algebra I
+- MATH 1024 Honors Calculus II
+- MATH 1023 Honors Calculus I
 
 <!-- ### LeetCode-Progress
 
