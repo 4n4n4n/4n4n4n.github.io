@@ -14,9 +14,9 @@
 
 <h3 id="intro" style="color:blue;">Introduction</h3>
 
-Hello! I'm a final-year Data Science student, also majoring in Mathematics. I'm passionate about **algorithm design and analysis**, particularly in the realm of **differential privacy**. I thrive on solving complex problems through simple algorithms that reveal nontrivial analysis and deep insights. Rather than thinking fast, I prefer to think deeply—delving into the theoretical foundations and uncovering the elegant reasoning behind algorithmic solutions. My academic journey has sharpened my analytical skills, and I'm eager to contribute to impactful research that advances our understanding of privacy-preserving computation.
+Hello! I'm a final-year Data Science student, also majoring in Mathematics. I am still figuring out what I really like. My educational background gives me solid foundation in algorithms and mathematics. I enjoy the "ah-ha" moment when I finally understand something after a period of pondering. 
 
-📄 **[Download my CV](./pdfs/cv_everything.pdf)**
+<!-- 📄 **[Download my CV](./pdfs/cv_everything.pdf)** -->
 
 <h3 id="education" style="color:blue;">Education</h3>
 
