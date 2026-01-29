@@ -47,7 +47,10 @@ General Metric Spaces
     - [📄 View Research Report](./pdfs/usrp_report.pdf)
 
 <h3 id="other-experiences" style="color:blue;">Other Experiences</h3>
-
+- **Deep Learning Intern** at Bond Trust Limited
+    - Time: Dec 2025 - Jan 2026
+    - Incorporate MACE (M-layer Atomic Cluster Expansion) model into diffusion model to accelerate protein folding simulation
+    - Learn Hydra framework to rewrite MACE code to enhance the readability and maintainability
 - **Student Representative** at the Liaison Meeting, Department of Mathematics, HKUST
     - Time: Nov 12, 2025
     - Effectively communicated student concerns and suggestions to faculty, fostering an improved learning environment
@@ -76,7 +79,7 @@ General Metric Spaces
 | [Epsilon Fund Award for Excellence in Mathematics Research and Scholarship](https://www.math.hkust.edu.hk/intranet/ug/epsilon.php) - Mathematics scholarship awarded to top 3% of math majors for outstanding academic excellence | 2025 |
 | Simon Marais Mathematics Competition - Achieved top 10% ranking among 1,056 participants | 2024 Spring|
 | [S.S. Chern Class Scholarship](https://www.math.hkust.edu.hk/ug/chern_class/) for Elite Students in Mathematics - Awarded to top 10% students for outstanding performance and dedication in mathematical studies | since 2023 |
-| Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring,<br>2023 Fall, 2024 Spring |
+| Dean's List (TGA > 3.7) | 2022 Fall, 2023 Spring,<br>2023 Fall, 2024 Spring, 2025 Fall |
 
 <h3 id="skills" style="color:blue;">Skills</h3>
 
@@ -89,31 +92,50 @@ General Metric Spaces
 
 <h3 id="courses" style="color:blue;">Courses</h3>
 
-I love MATH and CS, so I've taken the honors version of courses to get solid and deep understanding. Here are some of the courses I've taken:
+I love MATH and CS, so I've taken the honors version of courses to get solid and deep understanding. Here are some of the rewarding courses I've taken in HKUST, receiving A/A+:
 
-| Course                                 | Grade |
-|----------------------------------------|-------|
-| COMP 5711 Introduction to Advanced Algorithms | A+|
-| COMP 4222 Machine Learning with Structured Data| A+|
-| COMP 4211 Machine Learning | A+ |
-| COMP 3721 Theory of Computation | A |
-| COMP 3711H Honor Design and Analysis of Algorithms | A+ |
-| COMP 2711H Honors Discrete Mathematical Tools for Computer Science | A+ |
-| COMP 2211 Exploring Artificial Intelligence | A     |
-| COMP 2012 Object-Oriented Programming and Data Structures | A |
-| COMP 2011 Programming with C++         | A+    |
-| MATH 5411 Advanced Probability Theory I | A+ |
-| MATH 4023 Complex Analysis             | A     |
-| MATH 3423 Statistical Inference | A+ |
-| MATH 3332 Data Analytic Tools | A+ |
-| MATH 3322 Matrix Computation           | A+    |
-| MATH 3033 Real Analysis | A+ |
-| MATH 2431 Honors Probability           | A     |
-| MATH 2043 Honors Mathematical Analysis | A     |
-| MATH 2023 Multivariable Calculus       | A     |
-| MATH 2131 Honors in Linear and Abstract Algebra I   | A+ |
-| MATH 1024 Honors Calculus II           | A     |
-| MATH 1023 Honors Calculus I            | A     |
+<!-- • COMP 5711 Introduction to Advanced Algorithms
+• COMP 4222 Machine Learning with Structured Data
+• COMP 4211 Machine Learning
+• COMP 3721 Theory of Computation
+• COMP 3711H Honor Design and Analysis of Algorithms
+• COMP 2711H Honors Discrete Mathematical Tools for Computer Science
+• COMP 2211 Exploring Artificial Intelligence
+• COMP 2012 Object-Oriented Programming and Data Structures
+• COMP 2011 Programming with C++
+• MATH 5411 Advanced Probability Theory I
+• MATH 4023 Complex Analysis
+• MATH 3423 Statistical Inference
+• MATH 3332 Data Analytic Tools
+• MATH 3322 Matrix Computation
+• MATH 3033 Real Analysis
+• MATH 2431 Honors Probability
+• MATH 2043 Honors Mathematical Analysis
+• MATH 2023 Multivariable Calculus
+• MATH 2131 Honors in Linear and Abstract Algebra I
+• MATH 1024 Honors Calculus II
+• MATH 1023 Honors Calculus I -->
+• COMP 5711 Introduction to Advanced Algorithms
+• COMP 4222 Machine Learning with Structured Data
+• COMP 4211 Machine Learning
+• COMP 3721 Theory of Computation
+• COMP 3711H Honor Design and Analysis of Algorithms
+• COMP 2711H Honors Discrete Mathematical Tools for Computer Science
+• COMP 2211 Exploring Artificial Intelligence
+• COMP 2012 Object-Oriented Programming and Data Structures
+• COMP 2011 Programming with C++
+• MATH 5411 Advanced Probability Theory I
+• MATH 4023 Complex Analysis
+• MATH 3423 Statistical Inference
+• MATH 3332 Data Analytic Tools
+• MATH 3322 Matrix Computation
+• MATH 3033 Real Analysis
+• MATH 2431 Honors Probability
+• MATH 2043 Honors Mathematical Analysis
+• MATH 2023 Multivariable Calculus
+• MATH 2131 Honors in Linear and Abstract Algebra I
+• MATH 1024 Honors Calculus II
+• MATH 1023 Honors Calculus I
 
 <!-- ### LeetCode-Progress
 
